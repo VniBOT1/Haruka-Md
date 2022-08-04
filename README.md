@@ -53,10 +53,10 @@ npm start
 ## Edit file
 `./config.json`
 ```{
-    "ownerNumber": ["6285342106390@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
+    "ownerNumber": ["6281257160601@s.whatsapp.net","6281257170601@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜",
     "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
+    "botName": "Vinz Botz ",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
